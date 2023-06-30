@@ -7,13 +7,19 @@ React 강의 공부 내용 기록
 <br/>
 <br/>
 ## 강의 목록
-:black_square_button:
+:white_small_square: 리액트는 무엇인가?
 <br/>
-:black_square_button:
+:white_small_square: 리액트의 장단점
 <br/>
-:black_square_button:
+:white_small_square: JSX
 <br/>
-:black_square_button:
+:white_small_square: Element
+<br/>
+:white_small_square: Component & Props
+<br/>
+:white_small_square: State & Lifecycle
+<br/>
+:white_small_square: 
 <br/>
 
 
